@@ -87,7 +87,6 @@ namespace CombinationPalindrome
             Below implementation is based on factoradic number system or Factorial number system.
             Refer to links for more information on Factorial number system 
             https://en.wikipedia.org/wiki/Factorial_number_system
-            Code is inspired by the below links 
             http://www.keithschwarz.com/interesting/code/?dir=factoradic-permutation
             http://stackoverflow.com/questions/756055/listing-all-permutations-of-a-string-integer          
         */
