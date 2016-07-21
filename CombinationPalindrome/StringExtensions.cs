@@ -83,9 +83,8 @@ namespace CombinationPalindrome
             Moving the third element by 1 position will result in {D B A C}
 
            For a set { A, B, C, D} the 19th iteration will result in {D,B,A,C}    
-       
-            Below implementation is based on factoradic number system or Factorial number system.
-            Refer to links for more information on Factorial number system 
+
+            Reference:
             https://en.wikipedia.org/wiki/Factorial_number_system
             http://www.keithschwarz.com/interesting/code/?dir=factoradic-permutation
             http://stackoverflow.com/questions/756055/listing-all-permutations-of-a-string-integer          
